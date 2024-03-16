@@ -10,23 +10,17 @@ This project is a financial ratio calculator built using Python and Tkinter. It 
 - User-friendly GUI design for easy navigation and data input.
 - Results displayed in a clear and organized format.
 
-## Demo Video
+## Video
 
 Check out this [YouTube video](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN) for a detailed walkthrough of the project.
 
 [![Calculator](https://img.youtube.com/vi/vb8IjSt3fhU/0.jpg)](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN)
 
-## Usage
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies (`pip install -r requirements.txt`).
-3. Run the `financial_ratio_calculator.py` file to launch the application.
 
 ## Dependencies
 
 - Python 3.x
 - Tkinter
-- pandas
 
 ## Contribution
 
