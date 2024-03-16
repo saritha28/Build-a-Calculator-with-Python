@@ -1,4 +1,4 @@
-# Simple Calculator with Python and Tkinter
+# Build a Calculator with Python and Tkinter
 
 This project is a simple calculator application built using Python and Tkinter. It provides a graphical user interface (GUI) for basic arithmetic calculations.
 
