@@ -9,11 +9,11 @@ This project is a simple calculator application built using Python and Tkinter. 
 - Error handling for invalid inputs and division by zero.
 - User-friendly GUI design for easy navigation and input.
 
-## Demo Video
+## Video
 
 Check out this [YouTube video](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN) for a detailed walkthrough of the project.
 
-[![Simple Calculator Demo](https://img.youtube.com/vi/vb8IjSt3fhU/0.jpg)](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN)
+[![Simple Calculator](https://img.youtube.com/vi/vb8IjSt3fhU/0.jpg)](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN)
 
 ## Dependencies
 
