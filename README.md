@@ -1,5 +1,4 @@
 # Build-a-Calculator-with-Python
-# Financial Ratio Calculator
 
 This project is a financial ratio calculator built using Python and Tkinter. It provides a graphical user interface (GUI) for calculating various financial ratios based on user-input financial data.
 
