@@ -1,20 +1,19 @@
-# Build-a-Calculator-with-Python
+# Simple Calculator with Python and Tkinter
 
-This project is a financial ratio calculator built using Python and Tkinter. It provides a graphical user interface (GUI) for calculating various financial ratios based on user-input financial data.
+This project is a simple calculator application built using Python and Tkinter. It provides a graphical user interface (GUI) for basic arithmetic calculations.
 
 ## Features
 
-- Calculate common financial ratios such as liquidity ratios, profitability ratios, and solvency ratios.
-- Input financial data manually or import from external sources (e.g., CSV files).
-- User-friendly GUI design for easy navigation and data input.
-- Results displayed in a clear and organized format.
+- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Clear button to reset the input.
+- Error handling for invalid inputs and division by zero.
+- User-friendly GUI design for easy navigation and input.
 
-## Video
+## Demo Video
 
 Check out this [YouTube video](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN) for a detailed walkthrough of the project.
 
-[![Calculator](https://img.youtube.com/vi/vb8IjSt3fhU/0.jpg)](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN)
-
+[![Simple Calculator Demo](https://img.youtube.com/vi/vb8IjSt3fhU/0.jpg)](https://youtu.be/vb8IjSt3fhU?si=nrPR7wH1hfo9ypzN)
 
 ## Dependencies
 
